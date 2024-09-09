@@ -9,6 +9,8 @@ The vision of Urantia Foundation is to foster the spiritual transformation of hu
 
 The Urantia Foundation publishes *The Urantia Book* in more than 20 languages.
 
+<p align="center"><img src="./urantia_book_en.png" title="The Urantia Book"></p>
+
 ---
 
 *The Urantia Book*, first published by Urantia Foundation in 1955, presents us with the origin, history, and destiny of humanity. It answers questions about God, life in the inhabited universe, the history and future of this world, and it includes an uplifting narrative of the life and teachings of Jesus.
